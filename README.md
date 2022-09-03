@@ -5,7 +5,7 @@
 - Team Triodev | https://discord.gg/8KkpUgkKCH
 - Multiverse  | https://discord.gg/multiverseroleplay
 
-![Discord Banner 4](https://discordapp.com/api/guilds/[935906074081525770]/widget.png?style=banner4)
+[<img src="https://discordapp.com/api/guilds/[935906074081525770]/widget.png?style=banner4" alt="Discord Banner 4"/>](https://discord.com/api/guilds/935906074081525770/widget.json)
 
 <!---
 NilUwU/NilUwU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
