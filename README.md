@@ -51,16 +51,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NilUwU/NilUwU/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/31grrcehtnpyi6pz6dxaux43fgya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://profile-counter.glitch.me/NilUwU/count.svg?"  />
 </div>
 
 ###
